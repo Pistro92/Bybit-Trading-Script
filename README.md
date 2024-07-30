@@ -5,4 +5,22 @@ When it comes to usage, all you need to do is create a Bybit API key and paste i
 
 If you're interested in purchasing the script please use the donate button below:
 
-[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PM4VDN98TJF3G)
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+  <input type="hidden" name="cmd" value="_s-xclick" />
+  <input type="hidden" name="hosted_button_id" value="PM4VDN98TJF3G" />
+  <table>
+    <tr>
+      <td>
+        <input type="hidden" name="on0" value="Your email adress"/>
+        Your email adress
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <input type="text" name="os0" maxLength="200" />
+      </td>
+    </tr>
+  </table>
+  <input type="hidden" name="currency_code" value="USD" />
+  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" title="PayPal –wygodne i bezpieczne płatności za zakupy w Internecie." alt="Kup teraz" />
+</form>
